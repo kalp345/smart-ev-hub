@@ -66,33 +66,10 @@ License
 
 MIT License
 
----
-
-### ✅ **Instructions:**
-1. Go to your repo → `README.md` → click **pencil icon** to edit.  
-2. Delete old content and **paste the above text**.  
-3. Scroll down → **Commit changes** → commit directly to **main branch**.  
-
----
-
-After this, your README will be **complete and fully submission-ready**.  
-
-If you want, I can **also write the ready-to-paste Devpost “Gemini 3 Integration Description” and submission summary** next, so your project is completely ready for the hackathon.  
-
-Do you want me to do that?
 
 
----
 
-### ✅ **Instructions:**
-1. Go to your repo → `README.md` → click **pencil icon** to edit.  
-2. Delete old content and **paste the above text**.  
-3. Scroll down → **Commit changes** → commit directly to **main branch**.  
 
----
 
-After this, your README will be **complete and fully submission-ready**.  
 
-If you want, I can **also write the ready-to-paste Devpost “Gemini 3 Integration Description” and submission summary** next, so your project is completely ready for the hackathon.  
 
-Do you want me to do that?
